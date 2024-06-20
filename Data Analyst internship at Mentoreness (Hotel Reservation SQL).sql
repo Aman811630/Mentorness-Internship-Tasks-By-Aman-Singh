@@ -1,3 +1,5 @@
+-- HOTEL RESERVATION ANALYSIS SQL PROJECT
+
 select * from "Hotel"
 
 --1. What is the total number of reservations in the dataset?
