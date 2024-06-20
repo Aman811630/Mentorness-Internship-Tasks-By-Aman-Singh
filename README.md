@@ -8,6 +8,7 @@ Hotel Reservation Analysis with SQL
 In this Project, you will use SQL to answer the questions related to dataset. This will help you to develop
 your data analysis skills in a practical context.
 
+SQl Quries :- https://github.com/Aman811630/Mentorness-Internship-Tasks-By-Aman-Singh/blob/main/Data%20Analyst%20internship%20at%20Mentoreness%20(Hotel%20Reservation%20SQL).sql
 
 
 ## Task 03 :- Visulization & Dashboard making Using Power BI.
