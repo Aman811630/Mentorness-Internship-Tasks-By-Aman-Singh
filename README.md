@@ -1,10 +1,15 @@
 # Mentorness-Internship-Tasks-By-Aman-Singh
+![Screenshot (91)](https://github.com/Aman811630/Mentorness-Internship-Tasks-By-Aman-Singh/assets/100797749/ec62752c-c955-480e-85fa-c52b13f0240c)
+
 ### Data Analyst Internship
 ## Task 01 :- 
 Short Reel Making on topic :- SQL numeric data types , INTEGER, FLOAT, DECIMAL .
 
 ## Task 02 :- 
-Hotel Reservation Analysis with SQL
+![Screenshot (89)](https://github.com/Aman811630/Mentorness-Internship-Tasks-By-Aman-Singh/assets/100797749/df768c62-6b96-42e5-b84c-91a9b52629c7)
+
+# Hotel Reservation Analysis with SQL
+
 In this Project, you will use SQL to answer the questions related to dataset. This will help you to develop
 your data analysis skills in a practical context.
 
@@ -12,7 +17,10 @@ SQl Quries :- https://github.com/Aman811630/Mentorness-Internship-Tasks-By-Aman-
 
 
 ## Task 03 :- Visulization & Dashboard making Using Power BI.
-Problem Statement :- 
+
+![Screenshot (90)](https://github.com/Aman811630/Mentorness-Internship-Tasks-By-Aman-Singh/assets/100797749/94af9951-1b8b-4103-8fc4-f49fd36e6f32)
+
+## Problem Statement :- 
 This internship project aims to conduct a comprehensive analysis of YouTube songs data using Power BI.
 The dataset contains key attributes such as video ID, channel title, title, description, tags, published date,
 view count, like count, favorite count, comment count, video duration, video definition, and caption
@@ -23,12 +31,12 @@ optimizing their YouTube song content.
 
 # Project Objectives:
 
-1. Data Cleaning and Preparation:
+1. Data Cleaning and Preparation.
 
-2. Exploratory Data Analysis (EDA):
+2. Exploratory Data Analysis (EDA).
 
-3. Content and Channel Analysis:
+3. Content and Channel Analysis.
 
-4. Temporal Trends:
+4. Temporal Trends.
 
-5. User Engagement Insights:
+5. User Engagement Insights.
