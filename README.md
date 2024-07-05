@@ -51,4 +51,5 @@ optimizing their YouTube song content.
   - Investigate relationships between likes, comments, and views.
   - Identify factors influencing user engagement with YouTube song videos.
 
-My Power Bi Dashboard view :- 
+My Power Bi Dashboard view :- ![Song Analysis by Aman Singh](https://github.com/Aman811630/Mentorness-Internship-Tasks-By-Aman-Singh/assets/100797749/4df50a22-bda8-4d4b-af40-64d472975dc3)
+
